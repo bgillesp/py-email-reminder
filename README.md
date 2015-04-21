@@ -6,7 +6,9 @@ Set up a very simple python function call to send yourself an email reminder at 
 
 This set of scripts has a very simple purpose: Provide an optimally simple Python command to set up an email reminder to be sent at a future time from a remote server.  The python command provided has interface:
 
-> reminder("Message of email body text","Natural language date string")
+```
+reminder("Message of email body text","Natural language date string")
+```
 
 Easy peasy!  The command then will print a descriptive message indicating the outcome of the call.
 
