@@ -21,7 +21,7 @@ Easy peasy!  The command then will print a descriptive message indicating the ou
 
 3. Either set up reminder.py to run as part of a special python session for use via console, or set up a GUI to input data to it on the Desktop (not implemented)
 
-4. Place schedule_reminder.py and send_mail.py on a server with the `at` command, and ssh access
+4. Place `schedule_reminder.py` and `send_mail.py` on a server with the `at` command and ssh access
 
 5. Replace location parameters in `reminder.py`, `schedule_reminder.py` and `send_mail.py` to accurately reflect the system configuration of the server, and desired preferences for the emails to be sent
 
