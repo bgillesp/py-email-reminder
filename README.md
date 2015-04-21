@@ -19,7 +19,7 @@ Easy peasy!  The command then will print a descriptive message indicating the ou
 
 2. Server dependencies: Python, the `at` Unix scheduler utility, ssh access
 
-3. Either set up reminder.py to run as part of a special python session for use via console, or set up a GUI to input data to it on the Desktop (not implemented)
+3. Either set up `reminder.py` to run as part of a special python session for use via console, or set up a GUI to input data to it on the Desktop (not implemented)
 
 4. Place `schedule_reminder.py` and `send_mail.py` on a server with the `at` command and ssh access
 
