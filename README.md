@@ -21,7 +21,7 @@ Easy peasy!  The command then will print a descriptive message indicating the ou
 
 3. Place `schedule_reminder.py` and `send_mail.py` on a server with the `at` command and ssh access
 
-4. Set up public key encryption for ssh on the server
+4. Set up public key encryption for password-free ssh access to the server from your local machine
 
 5. Replace location parameters in `reminder.py`, `schedule_reminder.py` and `send_mail.py` to accurately reflect the system configuration of the server; modify format strings to configure desired preferences for the emails to be sent
 
